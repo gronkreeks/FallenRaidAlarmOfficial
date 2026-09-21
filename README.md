@@ -30,7 +30,17 @@ Open it.
 Go to System Settings → Privacy & Security, scroll to the bottom, and click Open Anyway next to the message about Raid Alarm.
 The project is open-source, so you can check the code yourself to ensure there is nothing malicious.
 
-<button>https://github.com/gronkreeks/FallenRaidAlarmOfficial/releases/latest/download/RaidAlarm-macOS.zip</button>
+<p align="center">
+  <a href="https://github.com/gronkreeks/FallenRaidAlarmOfficial/releases/latest/download/RaidAlarm-macOS.zip">
+    <img src="https://img.shields.io/badge/Download-macOS-111111?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS">
+  </a>
+  <a href="https://github.com/gronkreeks/FallenRaidAlarmOfficial/releases/latest">
+    <img src="https://img.shields.io/github/v/release/gronkreeks/FallenRaidAlarmOfficial?style=for-the-badge&label=latest&color=c0521f" alt="Latest release">
+  </a>
+  <a href="https://github.com/gronkreeks/FallenRaidAlarmOfficial/releases">
+    <img src="https://img.shields.io/github/downloads/gronkreeks/FallenRaidAlarmOfficial/total?style=for-the-badge&color=8c9b45" alt="Downloads">
+  </a>
+</p>
 
 Setup (The app walks you through this)
 
