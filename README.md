@@ -8,7 +8,7 @@ Leave the game running overnight and leave Raid Alarm listening. When it hears a
 
 <img width="516" height="232" alt="image" src="https://github.com/user-attachments/assets/74771efa-fbcf-426f-ba03-dcb8e6b12dd9" />
 
-<img width="695" height="686" alt="image" src="https://github.com/user-attachments/assets/a383625e-47d3-4986-bc2d-3749258aaeda" />
+<img width="756" height="662" alt="image" src="https://github.com/user-attachments/assets/ac2670ee-d322-4a01-bcc7-5f0ac4ea19f5" />
 
 Free while I'm testing it. A Windows version is next.
 
