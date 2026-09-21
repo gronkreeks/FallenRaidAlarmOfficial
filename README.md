@@ -28,8 +28,11 @@ Download RaidAlarm-macOS.zip from Releases, unzip it, and drag Raid Alarm to you
 Open it.
 <strong>macOS will refuse, because the app isn't signed by a registered Apple developer — that costs $99/year and this is free.</strong>
 Go to System Settings → Privacy & Security, scroll to the bottom, and click Open Anyway next to the message about Raid Alarm.
+The project is open-source, so you can check the code yourself to ensure there is nothing malicious.
 
-Setup
+<button>https://github.com/gronkreeks/FallenRaidAlarmOfficial/releases/latest/download/RaidAlarm-macOS.zip</button>
+
+Setup (The app walks you through this)
 
 The app opens on a Setup tab that walks you through this and checks each step off as you go. The short version:
 
