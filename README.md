@@ -14,18 +14,19 @@ Free while I'm testing it. A Windows version is next.
 
 What it actually does
 
-It listens to your game audio and watches for two things at once: a sound loud enough to matter, and one where most of the energy is low-frequency rumble. Rockets, C4 and satchels thump hard under 200 Hz in a way that gunfire, footsteps and voice comms don't, so it can tell a raid from a firefight instead of pinging every time someone shoots near you.
+It listens to your game audio and watches for two things at once: a sound loud enough to matter, and one where most of the energy is low-frequency rumble. Rockets, C4 and satchels thump hard under 200 Hz in a way that gunfire and footsteps don't, so it can tell a raid from a firefight instead of pinging every time someone shoots near you.
 
 It never records anything, and nothing leaves your machine except the alert message you send to your own Discord webhook.
 
 What you need
-A Mac with Apple Silicon (M1 or newer)
-BlackHole, a free audio driver — the app can't hear your Mac without it
-A Discord server where you can create a webhook
-Your Mac left awake with the game running
+1. A Mac with Apple Silicon (M1 or newer)
+2. BlackHole, a free audio driver — the app can't hear your Mac without it
+3. A Discord server where you can create a webhook
+4. Your Mac left awake with the game running
 Install
 Download RaidAlarm-macOS.zip from Releases, unzip it, and drag Raid Alarm to your Applications folder.
-Open it. macOS will refuse, because the app isn't signed by a registered Apple developer — that costs $99/year and this is free.
+Open it.
+<strong>macOS will refuse, because the app isn't signed by a registered Apple developer — that costs $99/year and this is free.</strong>
 Go to System Settings → Privacy & Security, scroll to the bottom, and click Open Anyway next to the message about Raid Alarm.
 
 If you'd rather not run an unsigned app from a stranger, don't — build it yourself from the source instead. Instructions at the bottom.
