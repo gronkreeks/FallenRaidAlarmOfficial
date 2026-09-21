@@ -29,8 +29,6 @@ Open it.
 <strong>macOS will refuse, because the app isn't signed by a registered Apple developer — that costs $99/year and this is free.</strong>
 Go to System Settings → Privacy & Security, scroll to the bottom, and click Open Anyway next to the message about Raid Alarm.
 
-If you'd rather not run an unsigned app from a stranger, don't — build it yourself from the source instead. Instructions at the bottom.
-
 Setup
 
 The app opens on a Setup tab that walks you through this and checks each step off as you go. The short version:
@@ -40,8 +38,9 @@ The app opens on a Setup tab that walks you through this and checks each step of
 brew install --cask blackhole-2ch
 
 Enter your Mac password when asked, then restart. If Terminal says brew: command not found, install Homebrew first.
+(You can also download BlackHole directly from the discord server at https://discord.com/app/invite-with-guild-onboarding/WV8bTXRUdu)
 
-2. Split your audio. Open Audio MIDI Setup, press Cmd+1, click + at the bottom left and choose Create Multi-Output Device. Tick both your headphones (or monitor) and BlackHole 2ch. Set your headphones as the Primary Device, tick Drift Correction on BlackHole only. Then right-click the Multi-Output Device and choose Use This Device For Sound Output.
+2. Split your audio. Open Audio MIDI Setup, click + at the bottom left and choose Create Multi-Output Device. Tick both your headphones (or monitor) and BlackHole 2ch. Set your headphones as the Primary Device, tick Drift Correction on BlackHole only. Then right-click the Multi-Output Device and choose Use This Device For Sound Output. Then, go to System Settings -> Sound and choose the Multi-Output Device as your sound output. If you want your volume keys to work, switch it back to your main sound output.
 
 This is what lets you hear the game while the app listens to it. Your volume keys stop working afterwards, so set volume in-game instead.
 
@@ -51,15 +50,15 @@ This is what lets you hear the game while the app listens to it. Your volume key
 
 Treat that URL like a password — anyone who has it can post in that channel.
 
-5. Calibrate. Easiest on a combat server: spawn a rocket launcher, stand a short way from a wall, and fire at it during the calibration window. The app listens for 45 seconds, works out your settings from what it heard, and shows you what it suggests. Press Use these settings.
+5. Calibrate. Easiest on a combat server: choose a rocket launcher kit, stand a short way from a wall, and fire at it during the calibration window. The app listens for 45 seconds, works out your settings from what it heard, and shows you what it suggests. Press Use these settings.
 
 Using it
 
 Before you log off: leave the game running in your base, open Raid Alarm, and press Start listening.
 
 Keep the lid open and the charger plugged in. The screen can sleep.
-Turn off in-game music, and gunfire if you like, so explosions stand out.
-Check Discord on your phone will actually notify you for that channel and isn't silenced by Do Not Disturb or a Focus mode.
+Turn off gunfire if you like, so explosions stand out.
+Check Discord on your phone will actually notify you for that channel and isn't silenced by Do Not Disturb or a Focus mode. You can also use another app instead of discord (just use that webhook instead)
 
 By default you get one ping per 90 seconds, so a long raid doesn't send forty alerts. Every alert is saved to a log file you can check in the morning.
 
