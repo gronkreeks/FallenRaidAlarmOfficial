@@ -31,7 +31,7 @@ Go to System Settings → Privacy & Security, scroll to the bottom, and click Op
 The project is open-source, so you can check the code yourself to ensure there is nothing malicious.
 
 <p align="center">
-  <a href="https://github.com/gronkreeks/FallenRaidAlarmOfficial/releases/latest/download/RaidAlarm-macOS.zip">
+  <a href="https://github.com/gronkreeks/FallenRaidAlarmOfficial/releases/latest/download/RaidAlarm.zip">
     <img src="https://img.shields.io/badge/Download-macOS-111111?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS">
   </a>
   <a href="https://github.com/gronkreeks/FallenRaidAlarmOfficial/releases/latest">
